@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/mcpserver/__init__.py
+src/mcpserver/__main__.py
+src/mcpserver/deployment.py
+src/server_deep.egg-info/PKG-INFO
+src/server_deep.egg-info/SOURCES.txt
+src/server_deep.egg-info/dependency_links.txt
+src/server_deep.egg-info/entry_points.txt
+src/server_deep.egg-info/requires.txt
+src/server_deep.egg-info/top_level.txt
