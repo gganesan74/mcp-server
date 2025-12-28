@@ -5,7 +5,7 @@ To install the adder mcp server, add the following command in the config file fo
 {
   "mcpServers": {
     "adder": {
-      "command": "C:\\Users\\Giris\\.local\\bin\\uvx.EXE",
+      "command": "uvx",
       "args": [
         "--from",
         "git+https://github.com/gganesan74/mcp-server",
